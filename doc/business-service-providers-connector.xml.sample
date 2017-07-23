@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(business-service-providers:greet) -->
+    <business-service-providers:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(business-service-providers:greet) -->
